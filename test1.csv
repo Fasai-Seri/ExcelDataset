@@ -446,7 +446,7 @@ Brazil,Mobile Phones,ZTE (ZTE Corp),ZTE Corp,Retail Volume,0.7,0.7,0.7,0.7,0.7
 Brazil,Mobile Phones,Blu (BLU Products Inc),BLU Products Inc,Retail Volume,0.4,0.4,0.4,0.4,0.3
 Brazil,Mobile Phones,Sony (Sony Corp),Sony Corp,Retail Volume,0.4,0.2,0.2,0.1,0.1
 Brazil,Mobile Phones,LG (LG Corp),LG Corp,Retail Volume,7.2,7.1,2.0,1.0,0.1
-Brazil,Mobile Phones,Positivo (Positivo Informática SA),Positivo Informática SA,Retail Volume,-,-,-,-,-
+Brazil,Mobile Phones,Positivo (Positivo InformÃ¡tica SA),Positivo InformÃ¡tica SA,Retail Volume,-,-,-,-,-
 Brazil,Mobile Phones,Others,Others,Retail Volume,6.7,7.4,12.0,10.0,12.3
 Brazil,Mobile Phones,Total,Total,Retail Volume,100.0,100.0,100.0,100.0,100.0
 Chile,Mobile Phones,Samsung (Samsung Corp),Samsung Corp,Retail Volume,39.2,40.3,39.0,41.7,34.7
@@ -670,7 +670,7 @@ Austria,Mobile Phones,iPhone (Apple Inc),Apple Inc,Retail Volume,17.3,19.8,19.7,
 Austria,Mobile Phones,Xiaomi (Xiaomi Corp),Xiaomi Corp,Retail Volume,-,3.8,10.5,14.5,16.5
 Austria,Mobile Phones,Vivo (BBK Electronics Corp Ltd),BBK Electronics Corp Ltd,Retail Volume,-,-,0.9,4.4,5.8
 Austria,Mobile Phones,Google Pixel (Alphabet Inc),Alphabet Inc,Retail Volume,1.2,1.2,1.1,1.1,2.9
-Austria,Mobile Phones,emporia (Emporia Telecom GmbH & Co KG),Emporia Telecom GmbH & Co KG,Retail Volume,1.9,1.7,1.7,1.6,1.5
+Austria,Mobile Phones,emporia (Emporia TelecomÂ GmbH & Co KG),Emporia TelecomÂ GmbH & Co KG,Retail Volume,1.9,1.7,1.7,1.6,1.5
 Austria,Mobile Phones,Huawei (Huawei Technologies Co Ltd),Huawei Technologies Co Ltd,Retail Volume,24.8,14.6,5.3,1.7,1.3
 Austria,Mobile Phones,Nokia (Nokia Corp),Nokia Corp,Retail Volume,1.7,1.4,1.4,1.3,1.3
 Austria,Mobile Phones,Sony (Sony Corp),Sony Corp,Retail Volume,2.1,1.8,1.5,1.0,0.6
@@ -691,7 +691,7 @@ Denmark,Mobile Phones,Huawei (Huawei Technologies Co Ltd),Huawei Technologies Co
 Denmark,Mobile Phones,Alcatel (TCL Corp),TCL Corp,Retail Volume,-,0.3,0.3,0.2,0.1
 Denmark,Mobile Phones,Sony (Sony Corp),Sony Corp,Retail Volume,0.5,0.2,0.2,0.1,0.0
 Denmark,Mobile Phones,Lenovo (Lenovo Group Ltd),Lenovo Group Ltd,Retail Volume,0.9,0.1,0.1,0.0,0.0
-Denmark,Mobile Phones,emporia (Emporia Telecom GmbH & Co KG),Emporia Telecom GmbH & Co KG,Retail Volume,0.0,0.0,0.0,0.0,0.0
+Denmark,Mobile Phones,emporia (Emporia TelecomÂ GmbH & Co KG),Emporia TelecomÂ GmbH & Co KG,Retail Volume,0.0,0.0,0.0,0.0,0.0
 Denmark,Mobile Phones,Blackberry (BlackBerry Ltd),BlackBerry Ltd,Retail Volume,-,-,-,-,-
 Denmark,Mobile Phones,HTC (HTC Corp),HTC Corp,Retail Volume,0.0,0.0,0.0,-,-
 Denmark,Mobile Phones,LG (LG Corp),LG Corp,Retail Volume,1.0,0.4,0.0,-,-
@@ -832,7 +832,7 @@ Norway,Mobile Phones,Nokia (Nokia Corp),Nokia Corp,Retail Volume,1.5,0.6,0.2,0.2
 Norway,Mobile Phones,Huawei (Huawei Technologies Co Ltd),Huawei Technologies Co Ltd,Retail Volume,15.6,10.9,4.1,3.3,0.1
 Norway,Mobile Phones,Sony (Sony Corp),Sony Corp,Retail Volume,1.0,0.4,0.4,0.1,0.1
 Norway,Mobile Phones,Alcatel (TCL Corp),TCL Corp,Retail Volume,-,0.3,0.3,0.1,0.0
-Norway,Mobile Phones,emporia (Emporia Telecom GmbH & Co KG),Emporia Telecom GmbH & Co KG,Retail Volume,0.0,0.0,0.0,0.0,0.0
+Norway,Mobile Phones,emporia (Emporia TelecomÂ GmbH & Co KG),Emporia TelecomÂ GmbH & Co KG,Retail Volume,0.0,0.0,0.0,0.0,0.0
 Norway,Mobile Phones,Lenovo (Lenovo Group Ltd),Lenovo Group Ltd,Retail Volume,0.5,0.1,0.1,0.1,0.0
 Norway,Mobile Phones,HTC (HTC Corp),HTC Corp,Retail Volume,1.8,1.5,0.2,-,-
 Norway,Mobile Phones,LG (LG Corp),LG Corp,Retail Volume,1.4,0.5,0.2,-,-
@@ -847,7 +847,7 @@ Portugal,Mobile Phones,Oppo (BBK Electronics Corp Ltd),BBK Electronics Corp Ltd,
 Portugal,Mobile Phones,Alcatel (TCL Corp),TCL Corp,Retail Volume,8.5,3.9,11.4,8.2,6.6
 Portugal,Mobile Phones,Nokia (Nokia Corp),Nokia Corp,Retail Volume,6.9,6.4,5.2,4.8,4.1
 Portugal,Mobile Phones,SPC (SPC Group),SPC Group,Retail Volume,0.6,0.8,1.0,1.5,2.1
-Portugal,Mobile Phones,ZTC (ZTC Produtos de Telecomunicações Lda),ZTC Produtos de Telecomunicações Lda,Retail Volume,2.0,0.5,1.8,1.7,1.4
+Portugal,Mobile Phones,ZTC (ZTC Produtos de TelecomunicaÃ§Ãµes Lda),ZTC Produtos de TelecomunicaÃ§Ãµes Lda,Retail Volume,2.0,0.5,1.8,1.7,1.4
 Portugal,Mobile Phones,Realme (BBK Electronics Corp Ltd),BBK Electronics Corp Ltd,Retail Volume,-,1.3,1.5,1.0,0.9
 Portugal,Mobile Phones,OnePlus (BBK Electronics Corp Ltd),BBK Electronics Corp Ltd,Retail Volume,-,0.7,0.8,0.7,0.7
 Portugal,Mobile Phones,Huawei (Huawei Technologies Co Ltd),Huawei Technologies Co Ltd,Retail Volume,24.0,0.0,1.9,0.7,0.5
@@ -861,7 +861,7 @@ Portugal,Mobile Phones,BenQ (BenQ Corp),BenQ Corp,Retail Volume,0.0,0.7,-,-,-
 Portugal,Mobile Phones,Blackberry (BlackBerry Ltd),BlackBerry Ltd,Retail Volume,0.1,0.0,0.0,-,-
 Portugal,Mobile Phones,Google Pixel (Alphabet Inc),Alphabet Inc,Retail Volume,-,-,-,-,-
 Portugal,Mobile Phones,HTC (HTC Corp),HTC Corp,Retail Volume,0.5,-,0.1,0.0,-
-Portugal,Mobile Phones,LAIQ (Sdt - Electrónica SA),Sdt - Electrónica SA,Retail Volume,0.6,0.3,0.1,-,-
+Portugal,Mobile Phones,LAIQ (Sdt - ElectrÃ³nica SA),Sdt - ElectrÃ³nica SA,Retail Volume,0.6,0.3,0.1,-,-
 Portugal,Mobile Phones,Lenovo (Lenovo Group Ltd),Lenovo Group Ltd,Retail Volume,0.2,0.0,-,-,-
 Portugal,Mobile Phones,LG (LG Corp),LG Corp,Retail Volume,0.4,0.4,0.1,-,-
 Portugal,Mobile Phones,Lumia (Microsoft Corp),Microsoft Corp,Retail Volume,-,-,-,-,-
@@ -894,7 +894,7 @@ Spain,Mobile Phones,LG (LG Corp),LG Corp,Retail Volume,2.6,2.4,-,-,-
 Spain,Mobile Phones,Lumia (Microsoft Corp),Microsoft Corp,Retail Volume,-,-,-,-,-
 Spain,Mobile Phones,Vsmart (Masan Group Corp),Masan Group Corp,Retail Volume,0.7,0.1,-,-,-
 Spain,Mobile Phones,Wolder (Global Wolder Group SL),Global Wolder Group SL,Retail Volume,-,-,-,-,-
-Spain,Mobile Phones,Woxter (Quatrotec Electrónica SL),Quatrotec Electrónica SL,Retail Volume,0.3,0.1,-,-,-
+Spain,Mobile Phones,Woxter (Quatrotec ElectrÃ³nica SL),Quatrotec ElectrÃ³nica SL,Retail Volume,0.3,0.1,-,-,-
 Spain,Mobile Phones,Others,Others,Retail Volume,5.5,5.0,5.2,3.7,2.5
 Spain,Mobile Phones,Total,Total,Retail Volume,100.0,100.0,100.0,100.0,100.0
 Sweden,Mobile Phones,Samsung (Samsung Corp),Samsung Corp,Retail Volume,39.7,40.5,42.1,45.4,44.6
@@ -972,4 +972,4 @@ Research Sources:,,,,,,,,,
 Consumer Electronics: Euromonitor from trade sources/national statistics,,,,,,,,,
 ,,,,,,,,,
 Date Exported (GMT): 10/25/2024 1:38:54 PM,,,,,,,,,
-© Euromonitor International,,,,,,,,,
+Â© Euromonitor International,,,,,,,,,
